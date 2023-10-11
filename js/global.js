@@ -1,0 +1,1 @@
+document.addEventListener("dragstart",(e=>e.preventDefault()),!1),document.addEventListener("drop",(e=>e.preventDefault()),!1);

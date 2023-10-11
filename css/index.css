@@ -1,0 +1,15 @@
+/* Index */
+@import 'global.css';
+/* Partials */
+@import 'loading.css';
+@import 'nav.css';
+@import 'footer.css';
+@import 'section-apresentacao.css';
+@import 'section-confiamos.css';
+@import 'section-barato.css';
+@import 'section-motivos.css';
+@import 'section-assinar.css';
+@import 'section-depoimentos.css';
+@import 'section-equipe.css';
+@import 'section-preco.css';
+@import 'section-perguntas.css';
